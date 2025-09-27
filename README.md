@@ -8,3 +8,13 @@ author of The Art of Network Penetration Testing. It streamlines the process of 
 used in lab scenarios, making it ideal for students, professionals, and enthusiasts working through Royce’s methodology.
 
 <img width="469" height="310" alt="VM_manager" src="https://github.com/user-attachments/assets/1f2e62c4-fa21-4d5f-9ae2-314ba5fdeee6" />
+
+Why use this tool?
+
+If you're working through Royce Davis’s The Art of Network Penetration Testing, this tool helps you:
+
+Avoid manual VM startup delays
+
+Maintain a clean and minimal control panel
+
+Focus on testing, not infrastructure
