@@ -1,0 +1,14 @@
+To create a program launcher on the desktop, we need to specify the correct path to the downloaded script.
+
+nano ~/Desktop/VM_Manager.desktop
+
+[Desktop Entry]
+Name=VM Manager
+Comment=Launch VirtualBox lab manager
+Exec=python3 /FULL/PATH/WITH/VM_manager.py  # need to specify the correct path
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=Utility;
+
+
