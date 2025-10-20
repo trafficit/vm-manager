@@ -19,3 +19,4 @@ Avoid manual VM startup delays
 Maintain a clean and minimal control panel
 
 Focus on testing, not infrastructure
+<img width="1024" height="1024" alt="icon" src="https://github.com/user-attachments/assets/235c9c2a-9857-460e-a6c5-e310c05953f4" />
