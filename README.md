@@ -20,3 +20,4 @@ Maintain a clean and minimal control panel
 
 Focus on testing, not infrastructure
 
+<img width="1024" height="1024" alt="icon" src="https://github.com/user-attachments/assets/c69a7fa1-fdfc-445d-84d1-e2ebec79b95d" />
